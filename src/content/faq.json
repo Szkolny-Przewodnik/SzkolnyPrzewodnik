@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Czy wasze narzędzia są autorskie?",
+    "answer": "Tak, nasze narzędzia są w 100% autorskie."
+  },
+  {
+    "question": "Czy korzystanie z platformy jest darmowe?",
+    "answer": "Tak, korzystanie z platformy jest w 100% darmowe."
+  },
+  {
+    "question": "Skąd pozyskujecie dane o szkołach?",
+    "answer": "Dane o szkołach są pozyskiwane ze stron internetowych szkół oraz z systemów rekrutacyjnych."
+  },
+  {
+    "question": "Jakie informacje o szkołach średnich oferujecie?",
+    "answer": "Oferujemy szczegółowe informacje na temat różnych typów szkół średnich, w tym liceów ogólnokształcących, techników oraz szkół branżowych I stopnia, w powiatach, w których nasz zespół zbiera dane o szkołach i ich kierunkach."
+  },
+  {
+    "question": "Czy planujecie dodać więcej powiatów?",
+    "answer": "Tak, sukcesywnie rozszerzamy zasięg platformy o kolejne powiaty."
+  },
+  {
+    "question": "Czy platforma jest dostępna na urządzeniach mobilnych?",
+    "answer": "Tak, nasza platforma jest dostępna na każdym urządzeniu."
+  }
+]

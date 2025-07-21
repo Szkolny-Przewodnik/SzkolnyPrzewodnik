@@ -1,0 +1,37 @@
+services:
+  app:
+    build: 
+      context: .
+    env_file: .env
+    environment:
+      MONGODB_URI: "mongodb://user:pass@mongodb/SP_DATABASE"
+    ports:
+      - "3000:3000"
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /usr/src/app
+        - action: rebuild
+          path: package.json
+    depends_on:
+      mongodb:
+        condition: service_healthy 
+  mongodb:
+    image: mongodb/mongodb-community-server
+    volumes:
+      - db_data:/data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=user
+      - MONGO_INITDB_ROOT_PASSWORD=pass
+    ports:
+      - "27020:27017"
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.runCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+
+volumes:
+  db_data:

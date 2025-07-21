@@ -1,0 +1,19 @@
+{
+  "ALL": { "title": "Wszystkie", "code": "ALL" },
+  "MZ": { "title": "Mazowieckie", "code": "MZ" },
+  "PD": { "title": "Podlaskie", "code": "PD" },
+  "WM": { "title": "Warmińsko-Mazurskie", "code": "WM" },
+  "KP": { "title": "Kujawsko-Pomorskie", "code": "KP" },
+  "PM": { "title": "Pomorskie", "code": "PM" },
+  "WP": { "title": "Wielkopolskie", "code": "WP" },
+  "ZP": { "title": "Zachodnio-Pomorskie", "code": "ZP" },
+  "LB": { "title": "Lubuskie", "code": "LB" },
+  "DS": { "title": "Dolnośląskie", "code": "DS" },
+  "OP": { "title": "Opolskie", "code": "OP" },
+  "SL": { "title": "Śląskie", "code": "SL" },
+  "LD": { "title": "Łódzkie", "code": "LD" },
+  "SK": { "title": "Świętokrzyskie", "code": "SK" },
+  "MA": { "title": "Małopolskie", "code": "MA" },
+  "PK": { "title": "Podkarpackie", "code": "PK" },
+  "LU": { "title": "Lubelskie", "code": "LU" }
+}

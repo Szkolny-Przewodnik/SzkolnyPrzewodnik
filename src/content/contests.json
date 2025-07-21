@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Uzyskanie wiedzy w konkursach o zasięgu ponadregionalnym, organizowanych przez kuratorów oświaty na podstawie zawartych porozumień:",
+    "inputs": [
+      {
+        "name": "tytułu finalisty konkursu tematycznego lub interdyscyplinarnego",
+        "points": 5
+      },
+      {
+        "name": "tytułu laureata konkursu tematycznego lub interdyscyplinarnego",
+        "points": 7
+      },
+      {
+        "name": "tytułu finalisty konkursu przedmiotowego",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "title": "Uzyskanie w konkursach wiedzy o zasięgu międzynarodowym lub ogólnopolskim, bądź w turniejach o zasięgu ogólnopolskim, przeprowadzanych zgodnie z przepisami wydanymi na podstawie art. 32a ust. 4 oraz art. 22 ust. 2 pkt 8 ustawy:",
+    "inputs": [
+      {
+        "name": "tytułu finalisty turnieju z przedmiotu lub przedmiotów artystycznych nieobjętych ramowym planem nauczania szkoły artystycznej",
+        "points": 3
+      },
+      {
+        "name": "tytułu laureata turnieju z przedmiotu lub przedmiotów artystycznych nieobjętych ramowym planem nauczania szkoły artystycznej",
+        "points": 4
+      },
+      {
+        "name": "tytułu finalisty konkursu z przedmiotu lub przedmiotów artystycznych objętych ramowym planem nauczania szkoły artystycznej",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "title": "Uzyskanie w konkursie wiedzy o zasięgu wojewódzkim, organizowanym przez kuratora oświaty:",
+    "inputs": [
+      {
+        "name": "tytułu finalisty konkursu tematycznego lub interdyscyplinarnego",
+        "points": 3
+      },
+      {
+        "name": "tytułu laureata konkursu tematycznego lub interdyscyplinarnego",
+        "points": 5
+      },
+      {
+        "name": "tytułu finalisty konkursu przedmiotowego",
+        "points": 7
+      },
+      {
+        "name": "dwóch lub więcej tytułów finalisty konkursu tematycznego lub interdyscyplinarnego",
+        "points": 5
+      },
+      {
+        "name": "dwóch lub więcej tytułów laureata konkursu tematycznego lub interdyscyplinarnego",
+        "points": 7
+      },
+      {
+        "name": "dwóch lub więcej tytułów finalisty konkursu przedmiotowego",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "title": "Uzyskanie w konkursach lub turniejach wiedzy o zasięgu ponadwojewódzkim lub wojewódzkim, przeprowadzanych zgodnie z przepisami wydanymi na podstawie art. 32a ust. 4 oraz art. 22 ust. 2 pkt 8 ustawy:",
+    "inputs": [
+      {
+        "name": "tytułu finalisty konkursu tematycznego lub interdyscyplinarnego",
+        "points": 2
+      },
+      {
+        "name": "tytułu laureata konkursu tematycznego lub interdyscyplinarnego",
+        "points": 3
+      },
+      {
+        "name": "tytułu finalisty konkursu przedmiotowego",
+        "points": 7
+      },
+      {
+        "name": "dwóch lub więcej tytułów finalisty konkursu tematycznego lub interdyscyplinarnego",
+        "points": 5
+      },
+      {
+        "name": "dwóch lub więcej tytułów laureata konkursu tematycznego lub interdyscyplinarnego",
+        "points": 7
+      },
+      {
+        "name": "dwóch lub więcej tytułów finalisty konkursu przedmiotowego",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "title": "Uzyskanie wysokiego miejsca w zawodach wiedzy, artystycznych lub sportowych, które nie są wymienione w punktach 1–4, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, na poziomie:",
+    "inputs": [
+      {
+        "name": "powiatowym",
+        "points": 1
+      },
+      {
+        "name": "wojewódzkim",
+        "points": 2
+      },
+      {
+        "name": "krajowym",
+        "points": 3
+      },
+      {
+        "name": "międzynarodowym",
+        "points": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "h2": "Innowacja",
+    "p": "Oferujemy szeroki wachlarz ciągle usprawnianych narzędzi korzystających z najnowszych technologi",
+    "img": "/about/carousel/innowacja.jpg",
+    "alt": "Ręka trzymająca żarówke"
+  },
+  {
+    "h2": "Współpraca",
+    "p": "Celem działania naszej strony jest zapewnienie Użytkownikowi, czyli tobie jak najlepszego doświadczenia i pomocy w nauce, co osiągamy przy współpracy z wami - uczniami",
+    "img": "/about/carousel/wspolpraca.jpg",
+    "alt": "Ręka na ręce"
+  },
+
+  {
+    "h2": "Zaangażowanie",
+    "p": "Cały nasz zespół jest maksymalnie zaangażowany w tworzenie projektu oraz jego dalszy rozwój i wsparcie",
+    "img": "/about/carousel/zangazowanie.jpg",
+    "alt": "Człowiek z laptopem"
+  },
+  {
+    "h2": "Równość",
+    "p": "Na naszej platformie nikt nie jest lepszy ani gorszy ze względu na pieniądze - usługa jest w pełni darmowa i wszyscy jesteśmy sobie równi.",
+    "img": "/about/carousel/rownosc.jpg",
+    "alt": "Ludzie trzymający się za ręce"
+  }
+]
